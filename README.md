@@ -1,10 +1,10 @@
 🛒 Customer Shopping Behavior :
-        An end-to-end machine learning pipeline that predicts **purchase amount** (regression) and **product category** (classification) from customer shopping behavior data — featuring full preprocessing, outlier removal, model evaluation, and cross-validation visualizations.
+        An end-to-end machine learning pipeline that predicts **purchase amount** (regression) and **product category** (classification) from customer shopping                 behavior data — featuring full preprocessing, outlier removal, model evaluation, and cross-validation visualizations.
 
 📌 Overview :
         This project tackles two real-world ML problems on a customer shopping dataset:
-              - **Regression** — How much will a customer spend? (`Purchase Amount (USD)`)
-              - **Classification** — What product category will they buy? (`Category`)
+        - **Regression** — How much will a customer spend? (`Purchase Amount (USD)`)
+        - **Classification** — What product category will they buy? (`Category`)
         The pipeline covers everything from raw data ingestion to model evaluation, making it a great reference for end-to-end ML workflows in Python.
 
 ✨ Features :
